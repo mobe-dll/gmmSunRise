@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+html, 
+body {
+    background-color: #c8c8c8;
+}
+
+.addr-mint {
+    position:relative;
+    left:25%;
+    width:50%;
+    height: 100vh;
+    background-color: #5bf9fed2 ;
+}
+.addr-form {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    width: 60%;
+    height: 600px;
+
+}
+
+input,
+textarea {
+    width: 100%;
+    margin-top: 1rem;
+    border: none ;
+    border-bottom: 2px solid #000000;
+}
+
+.submit {
+    border: 3px solid black;
+    padding: 1rem ;
+    text-align: center;
+    background-color : #5f5d6f;
+    cursor: pointer;
+}
+.submit:hover {
+    opacity:0.6;
+}
