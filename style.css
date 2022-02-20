@@ -8,7 +8,7 @@
 
 html, 
 body {
-    background-color: #c8c8c8;
+    background-color: #ff80ff;
 }
 
 .addr-mint {
@@ -16,7 +16,7 @@ body {
     left:25%;
     width:50%;
     height: 100vh;
-    background-color: #5bf9fed2 ;
+    background-color: #4da6ff;
 }
 .addr-form {
     position: absolute;
