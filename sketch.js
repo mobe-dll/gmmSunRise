@@ -118,7 +118,7 @@ function re_preSet(){
   preSet = createGraphics( 400 , 800 );
   preSet.fill( input_tools[1].value() ,input_tools[3].value() ,input_tools[5].value() );
   preSet.stroke( input_tools[7].value() );
-  preSet.strokeWeight(10);
+  preSet.strokeWeight(50);
   preSet.rect(0,0,400,800);
 }
 
